@@ -1,0 +1,30 @@
+<html>
+<head>
+<style>
+
+aside { 
+float; right;
+    width: 15%;
+    
+}
+**/ Typography **/
+
+body {
+font-family: ‘Helvetica’, ‘Arial’, sans-serif;
+font-size: 14pt;
+line-height: 18pt;
+color: #000000;
+}
+
+nav a {
+color: #FFFFFF;
+text-decoration: none;
+}
+body {
+    background-color: #cdcdcd;
+
+}
+
+head {
+    background-image: url(heading.jpg);
+}
